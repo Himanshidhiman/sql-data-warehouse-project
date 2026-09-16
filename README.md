@@ -123,3 +123,12 @@ Once the Gold layer is built, the star schema supports queries and reports on:
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Himanshi Dhiman**
+
+- GitHub: [@Himanshidhiman](https://github.com/Himanshidhiman)
+- LinkedIn: [Himanshi Dhiman](https://www.linkedin.com/in/himanshi001/)
+
+Feel free to reach out with questions, feedback, or collaboration ideas.
